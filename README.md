@@ -8,7 +8,7 @@ Clone the repository:
 
 
 
-git clone https://github.com/Shubhz-git/Blockchain-Project_NCI
+    git clone https://github.com/Shubhz-git/Blockchain-Project_NCI
 
 
 
